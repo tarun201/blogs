@@ -6,7 +6,7 @@ This is blog where users can view,create,edit or delete a blog. I have made REST
 ## Table of contents
 * [How to run](https://github.com/tarun201/blogs/blob/master/README.md#how-to-run)
   * [Import databse](https://github.com/tarun201/blogs/blob/master/README.md#import-database)
-  * [Change the server configuration](#https://github.com/tarun201/blogs/blob/master/README.md#change-the-server-configuration)
+  * [Server configuration](#https://github.com/tarun201/blogs/blob/master/README.md#server-configuration)
   * [Run the server and the app](https://github.com/tarun201/blogs/blob/master/README.md#run-the-server-and-the-app)
 * [Known Issues](https://github.com/tarun201/blogs/blob/master/README.md#known-issues)
 
@@ -25,7 +25,7 @@ Then exit the MySQL shell by pressing `CTRL+Z`. From the normal command line, yo
 ```
 mysql -u username -p new_database < blogs.sql
 ```
-### Change the server configuration
+### Server configuration
 In the file [index.js](./node/config/index.js) you can change the configuration according to your database.
 ```
 var config = {};
