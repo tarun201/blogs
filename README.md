@@ -4,7 +4,7 @@ This is a mini project/task for the company **Pepper Cloud Private Limited** as 
 This is blog where users can view,create,edit or delete a blog. I have made REST APIs for using _NodeJS_ and frontend using _React_
 
 ## Table of contents
-* [How to run](#htr)
+* [How to run](https://github.com/tarun201/blogs/blob/master/README.md#how-to-run)
   * [Import databse](#imdb)
   * [Change the server configuration](#csc)
   * [Run the server and the app](#rsa)
