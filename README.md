@@ -41,7 +41,7 @@ module.exports = config;
 ### Run the server and the app
 First install the [package.json](./package.json) file using:
 ```
-npm install
+$ npm install
 ```
 
 Open two terminals from the project folder
