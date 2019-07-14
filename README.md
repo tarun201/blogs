@@ -10,10 +10,10 @@ This is blog where users can view,create,edit or delete a blog. I have made REST
   * [Run the server and the app](#rsa)
 * [Known Issues](#ki)
 
-<a name="htr"/>
+
 ## How to run
 
-<a name="imdb"/>
+
 ### Import database
 I have included my database with the file name [blogs.sql](./blogs.sql).
 First login in your database and then create a new database
