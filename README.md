@@ -1,7 +1,7 @@
 # Blogs
 
 This is a mini project/task for the company **Pepper Cloud Private Limited** as an application for internship for the role of web development.
-This is blog where users can view,create,edit or delete a blog. I have made REST APIs for using _NodeJS_ and frontend using _React_
+This is blog where users can view,create,edit or delete a blog. I have made REST APIs for using _NodeJS_ and frontend using _React_ and _MySQL_ for database.
 
 ## Table of contents
 * [How to run](https://github.com/tarun201/blogs/blob/master/README.md#how-to-run)
