@@ -27,13 +27,14 @@ mysql -u username -p new_database < blogs.sql
 ```
 ### Server configuration
 In the file [index.js](./node/config/index.js) you can change the configuration according to your database.
+Replace * with whatever your database name and password etc.
 ```
 var config = {};
 config.host = 'localhost';
 config.port = '3306';
-config.db = 'internship';
-config.user = 'root';
-config.passwd = '1234';
+config.db = '****';
+config.user = '****';
+config.passwd = '****';
 config.servicePort = 8080; //Don't change this
 
 module.exports = config;
