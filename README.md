@@ -6,7 +6,7 @@ This is blog where users can view,create,edit or delete a blog. I have made REST
 ## Table of contents
 * [How to run](https://github.com/tarun201/blogs/blob/master/README.md#how-to-run)
   * [Import databse](https://github.com/tarun201/blogs/blob/master/README.md#import-database)
-  * [Server configuration](#https://github.com/tarun201/blogs/blob/master/README.md#server-configuration)
+  * [Server configuration](https://github.com/tarun201/blogs/blob/master/README.md#server-configuration)
   * [Run the server and the app](https://github.com/tarun201/blogs/blob/master/README.md#run-the-server-and-the-app)
 * [Known Issues](https://github.com/tarun201/blogs/blob/master/README.md#known-issues)
 
