@@ -5,10 +5,10 @@ This is blog where users can view,create,edit or delete a blog. I have made REST
 
 ## Table of contents
 * [How to run](https://github.com/tarun201/blogs/blob/master/README.md#how-to-run)
-  * [Import databse](#imdb)
-  * [Change the server configuration](#csc)
-  * [Run the server and the app](#rsa)
-* [Known Issues](#ki)
+  * [Import databse](https://github.com/tarun201/blogs/blob/master/README.md#import-database)
+  * [Change the server configuration](#https://github.com/tarun201/blogs/blob/master/README.md#change-the-server-configuration)
+  * [Run the server and the app](https://github.com/tarun201/blogs/blob/master/README.md#run-the-server-and-the-app)
+* [Known Issues](https://github.com/tarun201/blogs/blob/master/README.md#known-issues)
 
 
 ## How to run
@@ -25,7 +25,6 @@ Then exit the MySQL shell by pressing `CTRL+Z`. From the normal command line, yo
 ```
 mysql -u username -p new_database < blogs.sql
 ```
-<a name="csc" />
 ### Change the server configuration
 In the file [index.js](./node/config/index.js) you can change the configuration according to your database.
 ```
@@ -39,7 +38,6 @@ config.servicePort = 8080; //Don't change this
 
 module.exports = config;
 ```
-<a name="rsa" />
 ### Run the server and the app
 Open two terminals from the project folder
 in one terminal run the following command:
@@ -53,6 +51,5 @@ $ npm start
 
 This should hopefully make the app run smoothly. If faced some difficulties do inform.
 
-<a name="ki" />
 ## Known Issues
 - For editing field we can't select a single parameter. Have to fill all the parameters
